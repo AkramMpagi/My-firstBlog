@@ -6,3 +6,17 @@
 #image-size{
     min-height: min-content;
 }
+
+.main{
+   
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
+
+.h2{
+    font-size: 700px;
+    text-transform: uppercase;
+    line-height: 1;
+    border-bottom: 3px solid red;
+}
