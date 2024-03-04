@@ -1,0 +1,8 @@
+#slider-container{
+    width: fit-content;
+    padding: 0px;
+}
+
+#image-size{
+    min-height: min-content;
+}
